@@ -23,7 +23,7 @@ class _LoginScreenState extends State<LoginScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              "Tiktok Clone",
+              "video share",
               style: TextStyle(
                 fontSize: 35,
                 color: buttonColor,

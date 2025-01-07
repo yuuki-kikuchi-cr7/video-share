@@ -25,7 +25,7 @@ class _SignupScreenState extends State<SignupScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              "Tiktok Clone",
+              "video share",
               style: TextStyle(
                 fontSize: 35,
                 color: buttonColor,
