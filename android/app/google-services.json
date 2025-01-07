@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958794696036",
+    "project_id": "tiktok-hoho",
+    "storage_bucket": "tiktok-hoho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958794696036:android:9d778a1dcfeba547422671",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQCjLQiNoSexckT4_Vj2rB6G8cTqC2N7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
